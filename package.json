@@ -1,0 +1,22 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "The server designed for testing static pages and SPA (single page applications).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static",
+    "express",
+    "nodejs",
+    "node",
+    "spa"
+  ],
+  "author": "Aleksandr Ermolaev [ave6990]",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "type": "module"
+}
